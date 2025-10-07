@@ -1,3 +1,4 @@
 **/*.o
-whatever
-Iter
+**/whatever
+**/Iter
+**/Array
